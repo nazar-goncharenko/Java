@@ -1,0 +1,4 @@
+Andriy	O	123	0
+Goblin	T	123	1
+Bot	O	123	1
+Nazar	X	123	3
